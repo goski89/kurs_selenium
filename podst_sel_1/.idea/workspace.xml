@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="085e4a2b-cf9a-4b22-88b1-c25e9887f8c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4TfZEK1YcurNhB4Bj9aoWU5x2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pytest_project" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/demos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in adding_test.py">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="podst_sel_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../venv_sel_1/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wait.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in adding_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="podst_sel_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir\u003d./report&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_project/adding_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in random_name_file_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="podst_sel_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir\u003d./report&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_project/random_name_file_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_demo_page.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="podst_sel_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir\u003d./report&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_project/test_demo_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.pytest in adding_test.py" />
+      <item itemvalue="Python tests.pytest in random_name_file_test.py" />
+      <item itemvalue="Python tests.pytest in test_demo_page.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in adding_test.py" />
+        <item itemvalue="Python tests.pytest in test_demo_page.py" />
+        <item itemvalue="Python tests.pytest in random_name_file_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085e4a2b-cf9a-4b22-88b1-c25e9887f8c0" name="Default Changelist" comment="" />
+      <created>1585993969185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585993969185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586181891317">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="217" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181891317" />
+    <state x="470" y="108" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586095326356">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="470" y="108" key="#com.intellij.ide.macro.MacrosDialog/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586095326356" />
+    <state x="458" y="234" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586181493670">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="458" y="234" key="#com.intellij.tools.ToolEditorDialog/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181493670" />
+    <state x="446" y="149" key="#xdebugger.evaluate" timestamp="1586002243317">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="446" y="149" key="#xdebugger.evaluate/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586002243317" />
+    <state x="449" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586036371755">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="449" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586036371755" />
+    <state x="470" y="158" width="424" height="481" key="FileChooserDialogImpl" timestamp="1586040157757">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="470" y="158" width="424" height="481" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586040157757" />
+    <state width="1345" height="261" key="GridCell.Tab.0.bottom" timestamp="1586181956177">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="261" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181956177" />
+    <state width="1345" height="261" key="GridCell.Tab.0.center" timestamp="1586181956176">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="261" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181956176" />
+    <state width="1345" height="261" key="GridCell.Tab.0.left" timestamp="1586181956176">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="261" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181956176" />
+    <state width="1345" height="261" key="GridCell.Tab.0.right" timestamp="1586181956176">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="261" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181956176" />
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom" timestamp="1586095828970">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586095828970" />
+    <state width="1345" height="248" key="GridCell.Tab.1.center" timestamp="1586095828970">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.center/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586095828970" />
+    <state width="1345" height="248" key="GridCell.Tab.1.left" timestamp="1586095828970">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.left/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586095828970" />
+    <state width="1345" height="248" key="GridCell.Tab.1.right" timestamp="1586095828970">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.right/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586095828970" />
+    <state x="199" y="35" key="SettingsEditor" timestamp="1586181773267">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="199" y="35" key="SettingsEditor/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586181773267" />
+    <state width="683" height="369" key="XDebugger.FullValuePopup" timestamp="1586000655049">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="683" height="369" key="XDebugger.FullValuePopup/0.30.1366.738/1366.0.1280.1024@0.30.1366.738" timestamp="1586000655049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/actions_on_elements.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytest_project/test_demo_page.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytest_project/test_demo_page.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytest_project/test_demo_page.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytest_project/test_demo_page.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
