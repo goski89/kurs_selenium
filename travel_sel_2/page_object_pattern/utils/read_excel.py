@@ -5,7 +5,7 @@ class ExcelReader:
 
     @staticmethod
     def get_data():
-        wb = xlrd.open_workbook("page_object_pattern/utils/dane.xlsx")
+        wb = xlrd.open_workbook("../utils/dane.xlsx")
         sheet = wb.sheet_by_index(0)
         data = []
 

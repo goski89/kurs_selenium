@@ -9,7 +9,9 @@ class DriverFactory:
         if browser == "chrome":
             options = webdriver.ChromeOptions()
             options.add_argument('start-maximize')
-            return webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=options)
+            options.set_capability("browserName", 'chrome')
+            # return webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=options)
+            return webdriver.Remote("http://192.168.0.16:4444/wd/hub", options=options)
         elif browser == "firefox":
             options = webdriver.FirefoxOptions()
             options.add_argument('start-maximize')
