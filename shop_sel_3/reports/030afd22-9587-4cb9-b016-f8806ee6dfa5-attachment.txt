@@ -1,0 +1,3 @@
+[32mINFO    [0m pages.my_account_page:my_account_page.py:28 Open page: 'http://www.seleniumdemo.com/?page_id=7'
+[32mINFO    [0m pages.my_account_page:my_account_page.py:40 Create account with email: dom.gorski@gmail.com, password: Fibaro12345678
+[32mINFO    [0m pages.my_account_page:my_account_page.py:52 MSG: Error: An account is already registered with your email address. Please log in.

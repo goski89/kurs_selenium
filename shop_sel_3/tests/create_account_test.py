@@ -4,11 +4,13 @@ from pages.my_account_page import MyAccountPage
 import pytest
 import random
 import time
+import allure
 
 @pytest.mark.usefixtures('setup')
 class TestCreateAccount:
 
-
+    @allure.title("Test błednego założenia konta")
+    @allure.description("W tym tescie podajemy dane które juz sa zarejestrowane")
     def test_create_account_failed(self):
         my_account_page = MyAccountPage(self.driver)
         my_account_page.open_my_account_page()
@@ -16,6 +18,8 @@ class TestCreateAccount:
 
         assert my_account_page.reg_msg_err in my_account_page.get_error_msg(), "Email address is already registered in service!"
 
+    @allure.title("Test poprawnego założenia konta")
+    @allure.description("W tym tescie podajemy dane losowe")
     def test_create_account_passed(self):
         email = f"dom.gorski{random.randint(10, 10000)}@gmail.com"
         password = "Fibaro12345678"

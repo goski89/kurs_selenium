@@ -4,10 +4,12 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from pages.my_account_page import MyAccountPage
 import pytest
-
+import allure
 @pytest.mark.usefixtures('setup')
 class TestLogIn:
 
+    @allure.title("Test błednego błędnego logowania")
+    @allure.description("Podajemy błedny email")
     def test_log_in_fail(self):
         username = "dom.gorski@wp.com"
         password = "Fibaro12345678"
@@ -17,7 +19,8 @@ class TestLogIn:
 
         assert my_account_page.login_msg_err in my_account_page.get_error_msg(), "Nie udana próba nieudanego logowania!"
 
-
+    @allure.title("Test poprawnego logowania")
+    @allure.description("W tym tescie podajemy dane które sa poprawne")
     def test_log_in_passed(self, ):
         username = "dom.gorski@gmail.com"
         password = "Fibaro12345678"

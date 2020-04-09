@@ -2,11 +2,13 @@ from pages.my_account_page import MyAccountPage
 from pages.billing_address_page import BillingAddressUpdate
 import pytest
 import random
-
+import allure
 
 @pytest.mark.usefixtures('setup')
 class TestUpdateBillingAddress:
 
+    @allure.title("Test uzupełnienia danych")
+    @allure.description("uzupelniamy dane do platnosci")
     def test_update_billing(self):
         email = f"dom.gorski{random.randint(10, 10000)}@gmail.com"
         password = "Fibaro12345678"

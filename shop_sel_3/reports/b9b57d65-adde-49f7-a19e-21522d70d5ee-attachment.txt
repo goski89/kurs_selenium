@@ -1,0 +1,11 @@
+[32mINFO    [0m pages.my_account_page:my_account_page.py:28 Open page: 'http://www.seleniumdemo.com/?page_id=7'
+[32mINFO    [0m pages.my_account_page:my_account_page.py:40 Create account with email: dom.gorski8465@gmail.com, password: Fibaro12345678
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:49 Click address section and next click edit link
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:36 Set fistname: Dominik, lastname: Górski
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:43 Set company: Fibaro
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:56 Set country 'Poland' in select object
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:63 Set adress with street: 'Serdeczna 1', postcode: '62-000', city: 'Wysogotowo'
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:73 Set phone number to: '666666666'.
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:81 Change email to stoper@wp.pl
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:91 Click Save button
+[32mINFO    [0m pages.billing_address_page:billing_address_page.py:97 Check response msg.
